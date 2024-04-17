@@ -22,7 +22,7 @@ body {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 2px solid #fff;
+    border: 0px solid #fff;
     text-decoration: underline;
     text-align: center;
     line-height: 55px;
@@ -32,7 +32,7 @@ body {
 
 .cabecalho a:hover .logo {
     color: #9443d8;
-    border: 2px solid #9443d8
+    border: 0px solid #9443d8
 }
 
 .cabecalho img {
